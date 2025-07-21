@@ -1,0 +1,18 @@
+- [x] Define folder structure
+- [x] Create minimal manifest.json
+- [x] Set up React + Tailwind + Framer Motion in the extension’s popup
+- [x] Set up React + Tailwind + Framer Motion in the extension’s background script
+- [x] Review and Refine Extension Folder Structure and Configuration
+- [x] Implement Extension Content Script for Claim Highlighting
+- [x] Implement Extension Background Message Handling
+- [x] Integrate Fact-Check API (OpenAI GPT-4)
+- [x] Integrate Manus TTS for Audio Playback
+- [x] Set up PocketBase for Dashboard Data
+- [x] Develop WebTruth Dashboard (React, Tailwind, Framer Motion)
+- [x] Implement Dashboard Manus Playback and Settings
+- [x] Prepare for Deployment (Build Extension and Dashboard)
+- [x] Deploy Extension and Dashboard
+- [x] Research and Implement Free Frontend TTS
+- [x] Perform Testing and QA
+- [x] Deliver Final Project and Documentation
+

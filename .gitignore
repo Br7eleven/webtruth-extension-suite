@@ -1,0 +1,63 @@
+# ==============================
+# 🔐 ENV FILES (all dirs)
+# ==============================
+**/.env
+**/.env.*
+**/.env.local
+**/.env.*.local
+
+# ==============================
+# 📦 Node / React Projects
+# ==============================
+node_modules/
+pnpm-lock.yaml
+npm-debug.log*
+yarn.lock
+dist/
+build/
+out/
+.cache/
+.vite/
+
+# ==============================
+# 🧠 Extension Build Output
+# ==============================
+extension/dist/
+extension/.parcel-cache/
+extension/*.zip
+
+# ==============================
+# 🐍 Python Backend (webttruth_backend)
+# ==============================
+webttruth_backend/__pycache__/
+webttruth_backend/*.pyc
+webttruth_backend/*.pyo
+webttruth_backend/*.pyd
+webttruth_backend/.venv/
+webttruth_backend/venv/
+webttruth_backend/env/
+webttruth_backend/.mypy_cache/
+webttruth_backend/.pytest_cache/
+
+# ==============================
+# 📦 PocketBase
+# ==============================
+pocketbase/pb_data/
+pocketbase/pb_public/
+pocketbase/node_modules/
+
+# ==============================
+# 🛠️ Miscellaneous
+# ==============================
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+*.log
+
+# ==============================
+# 📄 Output archives (optional)
+# ==============================
+*.zip
+*.tar
+*.gz
